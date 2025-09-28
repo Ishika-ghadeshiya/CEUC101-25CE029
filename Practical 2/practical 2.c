@@ -6,7 +6,8 @@ int main()
     int Breadth =90;
     printf(" The area of park is: %d", Length*Breadth);
     printf("\n The perimeter of park is: %d",2*(Length+Breadth));
-    printf("\n This program is developed by Ishika_25TCEVBN");
+    printf("\n This program is developed by Ishika_25CE029");
     return 0;
 
 }
+
