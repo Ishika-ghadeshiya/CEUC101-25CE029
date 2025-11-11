@@ -13,6 +13,7 @@ void main()
     scanf("%d",&b);
     savings();
     printf("The savings would be:%d\n",c);
+    printf("\nThis program is developed by Ishika_25CE029");
 }
 void savings()
 {
@@ -29,4 +30,5 @@ int change()
     a=b;
     b=c;
 }
+
 
