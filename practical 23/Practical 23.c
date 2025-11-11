@@ -36,5 +36,6 @@ void main()
     {
         printf("No Profit\n");
     }
-
+printf("\nThis program is developed by Ishika_25CE029");
 }
+
