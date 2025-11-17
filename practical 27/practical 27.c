@@ -1,8 +1,8 @@
 
 #include<stdio.h>
 
-void savings();
-int change();
+int savings();
+void change();
 int n,a,b,c,i;
 void main()
 {
@@ -16,7 +16,7 @@ void main()
     printf("The savings would be:%d\n",c);
     printf("\nThis program is developed by Ishika_25CE029");
 }
-void savings()
+int savings()
 {
     for(i=3;i<=n;i++)
     {
@@ -26,9 +26,10 @@ void savings()
     return c;
 }
 
-int change()
+void change()
 {
     a=b;
     b=c;
 }
+
 
