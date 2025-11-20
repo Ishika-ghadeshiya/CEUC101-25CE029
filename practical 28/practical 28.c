@@ -35,4 +35,6 @@ void main()
    printf("\nauther :%s",Tauther);
    printf("\nstatus:%c",Tstatus);
    printf("\nprice:%f", Tprice);
+    printf("\nThis program is developed by Ishika_25CE029");
 }
+
