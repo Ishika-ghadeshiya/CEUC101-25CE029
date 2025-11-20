@@ -22,5 +22,6 @@ void main()
         }
     }
     fclose(f);
-
+ printf("This program is developed by Ishika_25CE029\n");
 }
+
